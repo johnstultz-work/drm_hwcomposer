@@ -75,12 +75,11 @@ LOCAL_SRC_FILES := \
 	drmdisplaycompositor.cpp \
 	drmencoder.cpp \
 	drmeventlistener.cpp \
-	drmhwctwo.cpp \
 	drmmode.cpp \
 	drmplane.cpp \
 	drmproperty.cpp \
 	glworker.cpp \
-	hwcutils.cpp \
+	hwcomposer.cpp \
 	platform.cpp \
 	separate_rects.cpp \
 	virtualcompositorworker.cpp \
